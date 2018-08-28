@@ -1,0 +1,5 @@
+1. git init
+2. git remote add origin https://git_username:git_password@your_repository_path
+3. git add .			 Unversioned -> git new file (all files)
+4. git commit -m "commit message"
+5. git push origin master
